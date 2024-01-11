@@ -3753,7 +3753,7 @@
 		opacity: 0.2;
 	}
 	.retrieving-posts .filter-tab-content-wrapper:after {
-		content: url('../images/loader/loader_one.gif');
+		content: url('https://btkcreations.github.io/salaar/wp-content/themes/newsmatic/assets/images/loader/loader_one.gif');
 		position: absolute;
 	    left: 50%;
 	    top: 50%;
@@ -7695,7 +7695,7 @@ article figure.post-thumb-wrap img,
 	    visibility: visible;
 	    position: absolute;
 	    height: 430px;
-	    content: url(../images/loader/loader_one.gif);
+	    content: url(https://btkcreations.github.io/salaar/wp-content/themes/newsmatic/assets/images/loader/loader_one.gif);
 	    vertical-align: middle;
 	    background-size: 40px;
 	    width: 100%;
